@@ -7,6 +7,7 @@ Admin interface can be found at <project-directory>/admin. The admin user's user
 8Ukiu@BcfyEZUYDqaGnem_j!Jr
 
 Normal (worker-intended) user can be accessed with the username "normal" and password
+
 G-xRTncu6zaqFmnQZL4.*VqL_*
 
 
