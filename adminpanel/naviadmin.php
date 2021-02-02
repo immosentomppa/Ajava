@@ -40,7 +40,7 @@
 				{
 					//Jos onnistuu, viedään käyttäjä takaisin kirjautumissivulle.
 					if (result == "onnistui") {
-						window.location.href = 'https://ajava.eu/admin/#logoutsuccess';	
+						window.location.href = '../../admin/#logoutsuccess';	
 					}
 					//Jos ei onnistu, pistetään alerttia.
 					else {
